@@ -2,8 +2,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=lucascamiloo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" style="display: inline-block; margin-right: 20px;" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucascamiloo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" style="display: inline-block; margin-right: 20px;" />
-  
-  <img src="http://camilo.wuaze.com/fotogit/1.png" alt="Sua foto" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; border: 2px solid white; display: inline-block;" />
+
 </div>
 
 ---

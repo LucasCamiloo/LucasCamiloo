@@ -13,7 +13,7 @@
 <li>🎓 Estudante de Analise e Desenvolvimento de sistemas Centro Universitário Senac.</li>
 <li>💻 Experiência em HTML, CSS, JavaScript, C# e sempre buscando aprender mais.</li>
 
-<h2>Olá! O Que Estou Fazendo ?</h2>
+<h2>O Que Estou Fazendo?</h2>
 <li>🔭 Trabalhando em projetos pessoais e acadêmicos para aprimorar habilidades em desenvolvimento web.</li>
 <li>🌱 Aprendendo mais sobre NodeJS e Machine Learning.</li>
 

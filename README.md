@@ -11,7 +11,7 @@
 <h2>Olá! Me chamo Lucas 👋</h2>
 <li>🌟 Tenho amor por tecnologia desde que eu ganhei o meu primeiro computador (8 anos).</li>
 <li>🎓 Estudante de Analise e Desenvolvimento de sistemas Centro Universitário Senac.</li>
-<li>💻 Experiência em HTML, CSS, JavaScript, C# e sempre buscando aprender mais.</li>
+<li>💻 Experiência em HTML, JAVA, CSS, JavaScript, C# e sempre buscando aprender mais.</li>
 
 <h2>O Que Estou Fazendo?</h2>
 <li>🔭 Trabalhando em projetos pessoais e acadêmicos para aprimorar habilidades em desenvolvimento web.</li>

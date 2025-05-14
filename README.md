@@ -26,7 +26,8 @@
 ---
 
  <div align = "center"> 
-  <h1>Linguagens 
+  <h1>Tecnologias </h1>
+   <br>
    <div >
      <img margin: 10px; width="40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
      <img margin: 10px; width="40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />

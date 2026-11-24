@@ -20,8 +20,6 @@
   
 - 📫 Contato: [lucascamilo430@gmail.com](mailto:lucascamilo430@gmail.com)
 - 🌐 LinkedIn: [Lucas Camilo](https://www.linkedin.com/in/lucasdcamilo/)
-- 🌐 Visite meu [site portifólio](https://camilo.wuaze.com) para ver mais projetos e artigos sobre tecnologia.
-
 
 ---
 
